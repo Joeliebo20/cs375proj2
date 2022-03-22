@@ -1,0 +1,1 @@
+In my extended heap, I did not start at index 1. I was told that this would be ok by the professor. Therefore, when I am priniting locations in my heap, they are off by 1, since I started at index 0, not index 1. 
